@@ -1,0 +1,1 @@
+Basic command Line program for creating and rating the food outlets to PostgreSql database using hibernate and loggers
